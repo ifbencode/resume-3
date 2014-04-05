@@ -1,0 +1,152 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	 -box-sizing: border-box;
+
+}
+
+body {
+	background-color: #4D4D4D;
+}
+
+header {
+	background-color: #6B6B6B;
+	margin: auto;
+	margin-bottom: 25px;
+	position: relative;
+}
+
+#heading {
+	margin: 5px 10px 10px 10px;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: 700;
+	font-size: 3.5em;
+	color: #FFFFFF;
+	text-align: left;
+	padding-left: 20px;
+}
+
+#subheading {
+	margin: -5px 10px 15px 15px;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	color: #E8E86C;
+	text-align: left;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+#icons {
+	position: absolute;
+	right: 20px;
+	bottom: 35px;
+}
+
+#stroke {
+	height: 1px;
+	border: 2px solid #FFFFFF;
+	margin-top: -25px
+}
+
+#container {
+	width: 960px;
+	position: relative;
+	border: none;
+	margin: auto;
+}
+
+
+img {
+	height: 50px;
+	}
+
+a:link {
+	opacity: 0.4;
+}
+
+a:hover {
+	opacity: 1;
+}
+	
+a:active {
+	opacity: 0.6;
+}
+
+/**
+HOW???
+#side {
+	width: 200px;
+	height: 800px;
+	position: left;
+}**/
+
+h1 {
+	font-size: 1.5em;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: 700;
+}
+
+h4 {
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: 400;
+}
+
+li {
+	font-size: .8em;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: 400;
+	opacity: .7;
+	line-height: 150%;
+}
+
+#container {
+	width: 960px;
+	background: none;
+	border: none;
+	margin: auto;
+}
+
+.box {
+	color: #464646;
+	background-color: #F8F8F8;
+	border: 15px solid #1A1A1A;
+	width: 800px;
+	margin: auto;
+}
+
+#first {
+	width: 375px;
+	padding-left: 20px;
+	padding-right: 30px;
+	margin-top: 30px;
+	float: left;
+}
+
+#second {
+	width: 490px;
+	padding-left: 20px;
+	padding-right: 30px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+	position: absolute;
+	right: 80px;
+}
+
+#third {
+	width: 375px;
+	padding-left: 20px;
+	padding-right: 30px;
+	margin-top: 10px;
+	clear: left;
+ 	float: left;
+}
+
+#fourth {
+	width: 375px;
+	padding-left: 20px;
+	padding-right: 30px;
+	margin-top: 10px;
+	clear: left;
+ 	float: left;
+}
